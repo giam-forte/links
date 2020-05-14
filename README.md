@@ -33,3 +33,8 @@ https://github.com/scopely-devops/details
 
 ## Network
 
+## Serverless
+
+* Serverless-Dev-Tools - Dev tools for the serverless world\
+https://theodo-uk.github.io/sls-dev-tools/
+
