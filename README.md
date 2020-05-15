@@ -34,6 +34,7 @@ https://argoproj.github.io/argo-cd/
 
 
 ## Linux
+* [My Linux tips](https://github.com/giam-forte/links/blob/master/linux_tips.md)
 
 ## Mobile
 * Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.\
