@@ -28,12 +28,20 @@ https://github.com/scopely-devops/details
 * This is a lambda-function that generate reports of Bounce and Complaint and save on S3 Bucket in a web-format\
  https://github.com/awslabs/aws-support-tools/tree/master/SES/SESReports
 
+## Kubernetes
+* Argo CD - Declarative GitOps CD for Kubernetes\
+https://argoproj.github.io/argo-cd/
+
 
 ## Linux
 
 ## Mobile
 * Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.\
 https://mobsf.github.io/docs/#/
+
+## PHP
+* Performance Tuning\
+https://docstore.mik.ua/orelly/webprog/php/ch13_05.htm
 
 ## Network
 
