@@ -27,6 +27,10 @@ https://github.com/scopely-devops/details
 #### SES
 * This is a lambda-function that generate reports of Bounce and Complaint and save on S3 Bucket in a web-format\
  https://github.com/awslabs/aws-support-tools/tree/master/SES/SESReports
+ 
+ #### EC2
+ * Scaling Cronjobs\
+ https://gist.github.com/wonjun27/7885eebe51a16f75a67d
 
 ## Kubernetes
 * Argo CD - Declarative GitOps CD for Kubernetes\
